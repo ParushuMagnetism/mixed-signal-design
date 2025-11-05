@@ -1,6 +1,4 @@
-# mixed-signal
-.
-![WhatsApp Image 2025-11-05 at 10 24 01_cd5e2649](https://github.com/user-attachments/assets/7d8a988b-4615-4f74-a713-0d98cff329d4)
+
 #  4-bit R-2R DAC Using Two-Stage CMOS Op-Amp
 
 This project presents the **design and simulation of a 4-bit R-2R Digital-to-Analog Converter (DAC)** using a **two-stage CMOS operational amplifier** implemented in **Cadence Virtuoso (180 nm CMOS process)**.  
